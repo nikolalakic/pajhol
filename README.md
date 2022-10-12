@@ -1,0 +1,2 @@
+# pajhol
+Pihole blocklist
